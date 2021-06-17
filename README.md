@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JEON YOOSUN&fontSize=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=5DADE2&height=200&section=header&text=JEON YOOSUN&fontSize=70&fontColor=000000" />
 
 
 
@@ -36,11 +36,10 @@ Here are some ideas to get you started:
   </br>
   </br>
   </br>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoosun96&theme=dark&show_icons=true)
+
 
 
   </div>
   
- 
   
   
