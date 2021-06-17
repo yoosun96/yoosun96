@@ -1,4 +1,4 @@
-### Hi I'm YOOSUN 👋
+### 
 
 <!--
 **yoosun96/yoosun96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Frontend Developer&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=JEON YOOSUN&fontSize=60&fontAlign=70" />
+
+
