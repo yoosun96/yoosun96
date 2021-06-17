@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=JEON YOOSUN&fontSize=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JEON YOOSUN&fontSize=50&fontColor=ffffff" />
 
 
 
 <div align=center>
 
+  
+  
 ## 🖥  Stack  📃
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -30,9 +32,13 @@ Here are some ideas to get you started:
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   </br>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+  </br>
+  </br>
+  </br>
+  </br>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoosun96&theme=dark&show_icons=true)
 
- 
+
   </div>
   
  
