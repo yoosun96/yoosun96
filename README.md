@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=5DADE2&height=300&section=header&text=JEON YOOSUN&fontSize=70&fontColor=000000" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=5DADE2&height=300&section=header&text=JEON YOOSUN&fontSize=70&fontColor=000000" /> -->
 
 
 
