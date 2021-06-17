@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <img src="https://capsule-render.vercel.app/api?type=slice&color=5DADE2&height=300&section=header&text=JEON YOOSUN&fontSize=70&fontColor=000000" /> 
-
+<!--  <img src="https://capsule-render.vercel.app/api?type=slice&color=5DADE2&height=280&section=header&text=JEON YOOSUN&fontSize=70&fontColor=000000" /> 
+ -->
 
 <div align=center>
 
@@ -32,8 +32,7 @@ Here are some ideas to get you started:
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   </br>
   </br>
-  </br>
-  </br>
+
 
 
 
